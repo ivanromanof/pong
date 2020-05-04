@@ -1,7 +1,9 @@
-# python-package
+# Pong
 
 [![Build Status](https://travis-ci.com/ivanromanof/pong.svg?branch=master)](https://travis-ci.com/ivanromanof/pong)
 [![wemake-python-styleguide](https://img.shields.io/badge/style-wemake-000000.svg)](https://github.com/wemake-services/wemake-python-styleguide)
+
+## Cli game
 
 ### Links
 
