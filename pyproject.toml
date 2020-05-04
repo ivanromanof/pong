@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pong"
+version = "0.2.0"
+description = "cli game"
+authors = ["Ivan Romanov ivanromanov123@yandex.ru"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.4.1"
+wemake-python-styleguide = "^0.14.0"
+
+[tool.poetry.scripts]
+pong = "pong.scripts.pong:main"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
