@@ -5,7 +5,7 @@ test:
 	poetry run pytest pong tests
 
 lint:
-	poetry run flake8 pong
+	poetry run flake8 pong_game
 
 selfcheck:
 	poetry check

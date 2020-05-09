@@ -2,7 +2,7 @@
 
 """Users representation tests."""
 
-from pong.user import User
+from pong_game.user import User
 
 
 def test_instantiation():

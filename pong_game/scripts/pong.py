@@ -2,7 +2,7 @@
 
 """An example script."""
 
-from pong import user
+from pong_game import user
 
 
 def main():
